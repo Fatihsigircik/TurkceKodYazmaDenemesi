@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\deneme\deneme\bin\Debug\deneme.exe.config
+c:\users\user\documents\visual studio 2013\Projects\deneme\deneme\bin\Debug\deneme.exe
+c:\users\user\documents\visual studio 2013\Projects\deneme\deneme\bin\Debug\deneme.pdb
+c:\users\user\documents\visual studio 2013\Projects\deneme\deneme\obj\Debug\deneme.exe
+c:\users\user\documents\visual studio 2013\Projects\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\user\documents\visual studio 2013\Projects\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme\bin\Debug\deneme.exe.config
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme\bin\Debug\deneme.exe
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme\bin\Debug\deneme.pdb
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme\obj\Debug\deneme.exe
+D:\aktarım\eski masaüstü\eski makine belgeler\Visual Studio 2013\Projects\deneme\deneme\obj\Debug\deneme.pdb
